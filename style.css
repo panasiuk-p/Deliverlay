@@ -1,0 +1,46 @@
+.header-basic {
+    background: #0D0D11;
+    border-bottom: 1px solid #0D0D11;
+    padding: 12px 255px;
+    width: 1920px;
+    height: 70px;
+}
+
+.nav-heading {
+    width: 666px;
+    height: 33px;
+}
+
+.list-nav {
+    list-style-type: none;
+}
+
+.item-nav {
+    border-radius: 6px;
+    padding: 8px 10px 8px 12px;
+    height: 33px;
+}
+
+.limk-nav {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 90%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.search {
+    border-radius: 24px;
+    padding: 14px;
+    width: 46px;
+    height: 46px;
+}
+
+.button-basic {
+    border: 1px solid #4B50E6;
+    border-radius: 23px;
+    padding: 14px 24px;
+    width: 222px;
+    height: 46px;
+}
