@@ -27,7 +27,8 @@
     font-size: 18px;
     line-height: 90%;
     text-transform: capitalize;
-    color: #FFFFFF;
+    color: #fafafc;
+    ;
 }
 
 .search {
@@ -43,4 +44,240 @@
     padding: 14px 24px;
     width: 222px;
     height: 46px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #fafafc;
+}
+
+.main-section {
+    width: 1920px;
+}
+
+.hero-section {
+    width: 1920px;
+    height: 968px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.main-section {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 76px;
+    line-height: 100%;
+    color: #fafafc;
+}
+.main-heading{
+    font-family: Urbanist;
+font-weight: 700;
+font-size: 76px;
+line-height: 100%;
+color: #fafafc;
+}
+
+.paragraph-default {
+    font-family: Urbanist;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #fafafc;
+}
+
+.big-img {
+    width: 580px;
+    height: 580px;
+}
+
+.list {
+    width: 1410px;
+    height: 186px;
+}
+
+.cards-text {
+    width: 330px;
+    height: 186px;
+}
+
+.item-logo {
+    width: 56px;
+    height: 56px;
+}
+
+.element {
+    width: 330px;
+    height: 106px;
+}
+
+.element-name {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 125%;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+}
+
+.element-discription {
+    font-family: Urbanist;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    text-align: center;
+    color: #fff;
+}
+
+.carousel {
+    padding: 60px 0px;
+    width: 1920px;
+    height: 749px;
+}
+
+.block-headibg {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.list-expansion {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.list-visual {
+    width: 1920px;
+    height: 498px;
+}
+
+.cards-visual {
+    border-radius: 20px;
+    padding: 20px;
+    width: 340px;
+    height: 498px;
+}
+
+.visualization-simple {
+    width: 300px;
+    height: 290px;
+}
+
+.text-time {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.button-favorites {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.logo-mini {
+    width: 44px;
+    height: 44px;
+}
+
+.redirect {
+    width: 198px;
+    height: 43px;
+}
+
+.carousel-control {
+    width: 180px;
+    height: 16px;
+}
+
+.button-carousel {
+    border-radius: 100%;
+    fill: #fff;
+}
+
+.section-list {
+    padding: 60px 255px;
+    width: 1920px;
+    height: 591px;
+}
+
+.visualization-difficult {
+    width: 410px;
+    height: 272px;
+}
+
+.without-visualization {
+    padding: 60px 255px;
+    width: 1920px;
+    height: 427px;
+    background: #0d0d11;
+}
+
+.list {
+    width: 1410px;
+    height: 228px;
+}
+
+.information {
+    padding: 60px 255px;
+    width: 1920px;
+    height: 1307px;
+}
+
+.icon-social {
+    border-radius: 8px;
+    padding: 9px;
+    width: 38px;
+    height: 38px;
+    background: #343444;
+}
+
+.section-navigation {
+    width: 581px;
+    height: 186px;
+}
+
+.list-link {
+    width: 107px;
+    height: 186px;
+}
+
+.block-headibg {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    color: #fff;
+}
+
+.list-text {
+    width: 106px;
+    height: 136px;
+}
+
+.item-text {
+    width: 48px;
+    height: 22px;
+}
+
+.link-text {
+    font-family: Urbanist;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    color: #fff;
 }
