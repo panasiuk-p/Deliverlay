@@ -68,12 +68,13 @@
     line-height: 100%;
     color: #fafafc;
 }
-.main-heading{
+
+.main-heading {
     font-family: Urbanist;
-font-weight: 700;
-font-size: 76px;
-line-height: 100%;
-color: #fafafc;
+    font-weight: 700;
+    font-size: 76px;
+    line-height: 100%;
+    color: #fafafc;
 }
 
 .paragraph-default {
@@ -280,4 +281,139 @@ color: #fafafc;
     font-size: 14px;
     line-height: 160%;
     color: #fff;
+}
+
+/* catalog.html */
+
+.introductory-navigation {
+    width: 1920px;
+    height: 220px;
+    background-image: url("/images/aerial_clean_top_view_of_the_city_map_with_street_and_river_013\ 1.png");
+    filter: blur(10px);
+    mix-blend-mode: color-dodge;
+}
+
+.section-heading {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+}
+
+.bread-crumbs {
+    width: 272px;
+    height: 28px;
+}
+
+.item-bread-crumbs {
+    font-family: Urbanist;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #8a8aa0;
+}
+
+/* catalog-item.html */
+
+
+.item-full-info {
+    padding: 60px 255px;
+    width: 1920px;
+    height: 849px;
+    background: #1c1c28;
+}
+
+.visualization-simple-basic {
+    border-radius: 20px;
+    width: 690px;
+    height: 690px;
+}
+
+.title-item {
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.button-viewing {
+    border-radius: 40px;
+    padding: 7px 14px;
+    width: 79px;
+    height: 36px;
+    background: #1c1c28;
+}
+
+.send {
+    width: 83px;
+    height: 36px;
+}
+
+.item-send {
+    border-radius: 18px;
+    padding: 10px;
+    width: 35px;
+    height: 36px;
+    background: #1c1c28;
+}
+
+.application {
+    width: 648px;
+    height: 68px;
+}
+
+.icon-system {
+    border-radius: 12px;
+}
+.button-big{
+    border: 2px solid #5142fc;
+border-radius: 30px;
+padding: 16px 36px;
+width: 648px;
+height: 56px;
+}
+.more-information{
+    border-bottom: 2px solid #1f1f2c;
+width: 648px;
+height: 36px;
+}
+.item-more-information{
+    padding: 0px 12px;
+width: 157px;
+height: 26px;
+}
+.item-restoran{
+    border-radius: 6px;
+padding: 12px;
+width: 648px;
+height: 68px;
+background: #1c1c28;
+}
+.list-product{
+    width: 1410px;
+height: 46px;
+}
+.type-of-product{
+    border-radius: 6px;
+padding: 12px 16px;
+width: 97px;
+height: 46px;
+background: #343444;
+}
+.list-burger{
+    width: 228px;
+height: 46px;
+}
+.item-burger{
+    border-radius: 6px;
+padding: 12px;
+width: 119px;
+height: 46px;
+background: #343444;
 }
