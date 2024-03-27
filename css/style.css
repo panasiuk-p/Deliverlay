@@ -1,15 +1,18 @@
+body {
+    font-size: 14px;
+    line-height: 160%;
+    font-family: "Urbanist", "Arial", sans-serif;
+    font-weight:400;
+    color: #fafafc;
+}
+
 .header-basic {
     background: #0D0D11;
     border-bottom: 1px solid #0D0D11;
     padding: 12px 255px;
-    width: 1920px;
-    height: 70px;
 }
 
-.nav-heading {
-    width: 666px;
-    height: 33px;
-}
+.nav-heading {}
 
 .list-nav {
     list-style-type: none;
@@ -18,55 +21,40 @@
 .item-nav {
     border-radius: 6px;
     padding: 8px 10px 8px 12px;
-    height: 33px;
 }
 
-.limk-nav {
-    font-family: Urbanist;
+.limk-nav {    
     font-weight: 700;
     font-size: 18px;
     line-height: 90%;
     text-transform: capitalize;
-    color: #fafafc;
-    ;
+    color: #fafafc;    
 }
 
 .search {
     border-radius: 24px;
     padding: 14px;
-    width: 46px;
-    height: 46px;
 }
 
 .button-basic {
     border: 1px solid #4B50E6;
     border-radius: 23px;
-    padding: 14px 24px;
-    width: 222px;
-    height: 46px;
-    font-family: Urbanist;
+    padding: 14px 24px;    
     font-weight: 700;
     font-size: 15px;
     line-height: 120%;
     color: #fafafc;
 }
 
-.main-section {
-    width: 1920px;
-}
+.main-section {}
 
 .hero-section {
-    width: 1920px;
-    height: 968px;
-    background-image: url('/images/main-banner-illustration.png');
+    background-image: url('images/main-banner-illustration.png');
     background-size: cover;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    
-
 }
 
 .main-section {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 76px;
     line-height: 100%;
@@ -74,7 +62,6 @@
 }
 
 .main-heading {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 76px;
     line-height: 100%;
@@ -82,7 +69,6 @@
 }
 
 .paragraph-default {
-    font-family: Urbanist;
     font-weight: 400;
     font-size: 18px;
     line-height: 140%;
@@ -95,28 +81,15 @@
     height: 580px;
 }
 
-.list {
-    width: 1410px;
-    height: 186px;
-}
+.list {}
 
-.cards-text {
-    width: 330px;
-    height: 186px;
-}
+.cards-text {}
 
-.item-logo {
-    width: 56px;
-    height: 56px;
-}
+.item-logo {}
 
-.element {
-    width: 330px;
-    height: 106px;
-}
+.element {}
 
 .element-name {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 24px;
     line-height: 125%;
@@ -126,7 +99,6 @@
 }
 
 .element-discription {
-    font-family: Urbanist;
     font-weight: 400;
     font-size: 14px;
     line-height: 160%;
@@ -136,12 +108,9 @@
 
 .carousel {
     padding: 60px 0px;
-    width: 1920px;
-    height: 749px;
 }
 
 .block-headibg {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 36px;
     line-height: 120%;
@@ -150,7 +119,6 @@
 }
 
 .list-expansion {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 14px;
     line-height: 100%;
@@ -159,25 +127,16 @@
     color: #fff;
 }
 
-.list-visual {
-    width: 1920px;
-    height: 498px;
-}
+.list-visual {}
 
 .cards-visual {
     border-radius: 20px;
     padding: 20px;
-    width: 340px;
-    height: 498px;
 }
 
-.visualization-simple {
-    width: 300px;
-    height: 290px;
-}
+.visualization-simple {}
 
 .text-time {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 14px;
     line-height: 171%;
@@ -186,7 +145,6 @@
 }
 
 .button-favorites {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 14px;
     line-height: 171%;
@@ -194,93 +152,55 @@
     color: #fff;
 }
 
-.logo-mini {
-    width: 44px;
-    height: 44px;
-}
+.logo-mini {}
 
-.redirect {
-    width: 198px;
-    height: 43px;
-}
+.redirect {}
 
-.carousel-control {
-    width: 180px;
-    height: 16px;
-}
+.carousel-control {}
 
 .button-carousel {
     border-radius: 100%;
-    fill: #fff;
 }
 
 .section-list {
     padding: 60px 255px;
-    width: 1920px;
-    height: 591px;
 }
 
-.visualization-difficult {
-    width: 410px;
-    height: 272px;
-}
+.visualization-difficult {}
 
 .without-visualization {
     padding: 60px 255px;
-    width: 1920px;
-    height: 427px;
     background: #0d0d11;
 }
 
-.list {
-    width: 1410px;
-    height: 228px;
-}
+.list {}
 
 .information {
     padding: 60px 255px;
-    width: 1920px;
-    height: 1307px;
 }
 
 .icon-social {
     border-radius: 8px;
     padding: 9px;
-    width: 38px;
-    height: 38px;
     background: #343444;
 }
 
-.section-navigation {
-    width: 581px;
-    height: 186px;
-}
+.section-navigation {}
 
-.list-link {
-    width: 107px;
-    height: 186px;
-}
+.list-link {}
 
 .block-headibg {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 20px;
     line-height: 130%;
     color: #fff;
 }
 
-.list-text {
-    width: 106px;
-    height: 136px;
-}
+.list-text {}
 
-.item-text {
-    width: 48px;
-    height: 22px;
-}
+.item-text {}
 
 .link-text {
-    font-family: Urbanist;
     font-weight: 400;
     font-size: 14px;
     line-height: 160%;
@@ -290,15 +210,12 @@
 /* catalog.html */
 
 .introductory-navigation {
-    width: 1920px;
-    height: 220px;
-    background-image: url("/images/aerial_clean_top_view_of_the_city_map_with_street_and_river_013\ 1.png");
+    background-image: url("/images/main-banner-illustration.png");
     filter: blur(10px);
     mix-blend-mode: color-dodge;
 }
 
 .section-heading {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 36px;
     line-height: 120%;
@@ -307,13 +224,9 @@
     color: #fff;
 }
 
-.bread-crumbs {
-    width: 272px;
-    height: 28px;
-}
+.bread-crumbs {}
 
 .item-bread-crumbs {
-    font-family: Urbanist;
     font-weight: 400;
     font-size: 18px;
     line-height: 140%;
@@ -326,19 +239,14 @@
 
 .item-full-info {
     padding: 60px 255px;
-    width: 1920px;
-    height: 849px;
     background: #1c1c28;
 }
 
 .visualization-simple-basic {
     border-radius: 20px;
-    width: 690px;
-    height: 690px;
 }
 
 .title-item {
-    font-family: Urbanist;
     font-weight: 700;
     font-size: 36px;
     line-height: 120%;
@@ -349,75 +257,55 @@
 .button-viewing {
     border-radius: 40px;
     padding: 7px 14px;
-    width: 79px;
-    height: 36px;
     background: #1c1c28;
 }
 
-.send {
-    width: 83px;
-    height: 36px;
-}
+.send {}
 
 .item-send {
     border-radius: 18px;
     padding: 10px;
-    width: 35px;
-    height: 36px;
     background: #1c1c28;
 }
 
-.application {
-    width: 648px;
-    height: 68px;
-}
+.application {}
 
 .icon-system {
     border-radius: 12px;
 }
-.button-big{
+
+.button-big {
     border: 2px solid #5142fc;
-border-radius: 30px;
-padding: 16px 36px;
-width: 648px;
-height: 56px;
+    border-radius: 30px;
+    padding: 16px 36px;
 }
-.more-information{
+
+.more-information {
     border-bottom: 2px solid #1f1f2c;
-width: 648px;
-height: 36px;
 }
-.item-more-information{
+
+.item-more-information {
     padding: 0px 12px;
-width: 157px;
-height: 26px;
 }
-.item-restoran{
+
+.item-restoran {
     border-radius: 6px;
-padding: 12px;
-width: 648px;
-height: 68px;
-background: #1c1c28;
+    padding: 12px;
+    background: #1c1c28;
 }
-.list-product{
-    width: 1410px;
-height: 46px;
-}
-.type-of-product{
+
+.list-product {}
+
+.type-of-product {
     border-radius: 6px;
-padding: 12px 16px;
-width: 97px;
-height: 46px;
-background: #343444;
+    padding: 12px 16px;
+    background: #343444;
 }
-.list-burger{
-    width: 228px;
-height: 46px;
-}
-.item-burger{
+
+.list-burger {}
+
+.item-burger {
     border-radius: 6px;
-padding: 12px;
-width: 119px;
-height: 46px;
-background: #343444;
+    padding: 12px;
+    background: #343444;
 }
