@@ -2,7 +2,7 @@ body {
     font-size: 14px;
     line-height: 160%;
     font-family: "Urbanist", "Arial", sans-serif;
-    font-weight:400;
+    font-weight: 400;
     color: #fafafc;
 }
 
@@ -23,12 +23,12 @@ body {
     padding: 8px 10px 8px 12px;
 }
 
-.limk-nav {    
+.limk-nav {
     font-weight: 700;
     font-size: 18px;
     line-height: 90%;
     text-transform: capitalize;
-    color: #fafafc;    
+    color: #fafafc;
 }
 
 .search {
@@ -39,7 +39,7 @@ body {
 .button-basic {
     border: 1px solid #4B50E6;
     border-radius: 23px;
-    padding: 14px 24px;    
+    padding: 14px 24px;
     font-weight: 700;
     font-size: 15px;
     line-height: 120%;
@@ -49,7 +49,7 @@ body {
 .main-section {}
 
 .hero-section {
-    background-image: url('images/main-banner-illustration.png');
+    background-image: url('../images/background-main.webp');
     background-size: cover;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
@@ -57,23 +57,20 @@ body {
 .main-section {
     font-weight: 700;
     font-size: 76px;
-    line-height: 100%;
-    color: #fafafc;
+    line-height: 100%;    
 }
 
 .main-heading {
     font-weight: 700;
     font-size: 76px;
-    line-height: 100%;
-    color: #fafafc;
+    line-height: 100%;    
 }
 
 .paragraph-default {
     font-weight: 400;
     font-size: 18px;
     line-height: 140%;
-    text-transform: capitalize;
-    color: #fafafc;
+    text-transform: capitalize;    
 }
 
 .big-img {
@@ -108,6 +105,7 @@ body {
 
 .carousel {
     padding: 60px 0px;
+    background: #0d0d11;
 }
 
 .block-headibg {
@@ -164,6 +162,7 @@ body {
 
 .section-list {
     padding: 60px 255px;
+    background: #1c1c28;
 }
 
 .visualization-difficult {}
@@ -177,6 +176,7 @@ body {
 
 .information {
     padding: 60px 255px;
+    background: #1c1c28;
 }
 
 .icon-social {
@@ -207,10 +207,14 @@ body {
     color: #fff;
 }
 
+footer {
+    background: #0d0d11;
+}
+
 /* catalog.html */
 
 .introductory-navigation {
-    background-image: url("/images/main-banner-illustration.png");
+    background-image: url("/images/background-main.webp");
     filter: blur(10px);
     mix-blend-mode: color-dodge;
 }
