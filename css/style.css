@@ -49,9 +49,13 @@ body {
 .main-section {}
 
 .hero-section {
+    background-color: #000000;
     background-image: url('../images/background-main.webp');
     background-size: cover;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.hero-section-basic{
+    background-image: url("../images/banner-main.webp");    
 }
 
 .main-section {
